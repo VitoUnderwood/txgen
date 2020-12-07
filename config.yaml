@@ -1,0 +1,8 @@
+#模型参数
+print_every: 50
+plot_every: 20
+n_epochs: 50
+hidden_size: 100
+n_layers: 1
+lr: 0.015
+save_path: ./checkpoints/
